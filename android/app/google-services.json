@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "570165372709",
+    "project_id": "oauthpjt",
+    "storage_bucket": "oauthpjt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570165372709:android:e1778adbc7fc0868979ccc",
+        "android_client_info": {
+          "package_name": "com.oauthpjt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570165372709-udsrfoeg4g90dh482af55dgr8l7qucnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgBSNkUxI0RA14cnapAOg-_jepPHoIWlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570165372709-udsrfoeg4g90dh482af55dgr8l7qucnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
